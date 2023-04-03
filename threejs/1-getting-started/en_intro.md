@@ -20,3 +20,13 @@ All of the following commands must be typed while in COMMAND mode.
 - `:q` quits Vim
 - `:q!` quits without saving unsaved changes
 - `:wq` saves the unsaved changes and then quits
+
+## Viewing the scene
+
+To view your scene press the button above the terminal panel on the right side of the screen indicated with a red box in the image below.
+
+![Preview tab](tab.png)
+
+Then select node1 as the machine and type 3001 as the port.
+
+Your scene will be rendered in the new tab. Don't forget to refresh this tab to see the changes.

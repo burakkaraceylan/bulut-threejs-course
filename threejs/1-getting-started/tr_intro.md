@@ -20,3 +20,13 @@ Aşağıdaki komutların KOMUT modundayken yazılması gerekir.
 - `:q` Vim'den çıkar
 - `:q!` yapılan değişiklikleri kaydetmeden çıkmak için kullanılır
 - `:wq` yapılan değişiklikleri kaydedip çıkmak için kullanılır.
+
+## Sahneyi Görüntüleme
+
+Sahnenizi görüntülemek için, aşağıdaki resimde kırmızı bir kutu ile gösterilen ekranın sağ tarafındaki terminal panelinin üzerindeki düğmeye basın.
+
+![Önizleme sekmesi](tab.png)
+
+Ardından, makine olarak node1'i seçin ve port olarak 3001 yazın.
+
+Sahneniz yeni sekmede gosterilecektir. Değişiklikleri görmek için bu sekmeyi yenilemeyi unutmayın.
